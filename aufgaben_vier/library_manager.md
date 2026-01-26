@@ -55,4 +55,4 @@ Start → Menü anzeigen → Eingabe wählen
 - **Fall: Beenden**
   → Ende
 
-[uml](library_manager_uml.png)
+![uml](library_manager_uml.png)

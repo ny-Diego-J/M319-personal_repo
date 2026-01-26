@@ -49,4 +49,4 @@ Start → Menü anzeigen → Eingabe wählen
 - **Fall: Beenden**
   → Ende
 
-[uml](workout_activity_uml.png)
+![uml](workout_activity_uml.png)
